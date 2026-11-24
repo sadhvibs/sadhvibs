@@ -1,6 +1,5 @@
-## Hi there 👋
 
-### Hi, I'm Sadhvi 👋
+## Hi, I'm Sadhvi 👋
 
 I'm a **Frontend Engineer** with 2+ years of experience building responsive, scalable web applications, primarily using **Angular, TypeScript, and JavaScript**.
 
